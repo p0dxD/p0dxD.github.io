@@ -51,7 +51,9 @@ footer {
   position: relative; }
 
 .about-text {
-  padding: 10px 15px 10px 15px; }
+  padding: 10px 15px 10px 15px;
+  height: 100px;
+  width: 100%; }
 
 img {
   display: block;
